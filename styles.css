@@ -1,0 +1,29 @@
+/* styles.css */
+.observations {
+    border: 1px solid #8DA9C4;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #DCEDFF;
+}
+.observations h3, p, li {
+    color: #0B2545;
+}
+
+.comments {
+    border: 2px solid #2196F3;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #e7f2fa;
+}
+.comments h3 {
+    color: #2196F3;
+}
+.important-info {
+    border: 2px solid #FF5722;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #fdeae7;
+}
+.important-info h3 {
+    color: #FF5722;
+}
